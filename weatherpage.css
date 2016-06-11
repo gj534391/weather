@@ -1,0 +1,47 @@
+.container-fluid {
+  padding-top: 75px;
+  padding-bottom: 200px;
+  font-family: 'Nobile', sans-serif;
+  color: #ffffff;
+  background-color: #000000;
+  font-size: 20px;
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  height: 150%; 
+  width: 100%;
+}
+#evbut{
+  color: #ffffff;
+  background-color: #000000;
+  border: solid;
+  font-family: Verdana;
+  font-size: 20px;
+  }
+#cond{
+  color: #ffffff;
+  font-family: Verdana;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 20px;
+}
+#temp{
+  color: #ffffff;
+  font-family: Verdana;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 20px; 
+}
+#fandc{
+  color: #ffffff;
+  background-color: #000000;
+  border: solid;
+  font-family: Verdana;
+  font-size: 20px;
+}
+#wicon{
+  color: #ffffff;
+  margin-top: 25px;
+  margin-bottom: 5px;
+  font-size: 7.5em;
+  }
